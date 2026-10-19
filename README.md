@@ -197,4 +197,5 @@ GitHub: https://github.com/dnafinder
 
 ## 📄 License
 The code is provided as-is, without any explicit warranty.  
-Please refer to the repository for licensing details if a LICENSE file is present.
+PWP-models is distributed under the terms of the GNU General Public License v3.0, as specified in the LICENSE file:
+https://github.com/dnafinder/PWP-models/blob/main/LICENSE
